@@ -4,4 +4,4 @@ Arduino programs from a project that involved implementing the PelcoD protocol o
 
 The file ```M1_D_controller.ino``` utilized a series of push buttons on a breadboard to control the camera.
 
-The file keyboard_controller maps certain keys on a PS2 keyboard to certain movements of the camera.
+The file ```keyboard_controller.ino``` maps certain keys on a PS2 keyboard to certain movements of the camera.
