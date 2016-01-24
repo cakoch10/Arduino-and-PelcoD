@@ -4,7 +4,7 @@
 #define CS   4
 #define CS2  5
 
-const int ledPin = 13; //optional. I used a LED for debugging purposes
+const int ledPin = 13;//optional. I used LED for debugging purposes
 
 int counter=0;
 byte lf[7]={0xFF,0x01,0x00,0x04,0x3F,0x00,0x44};//left pan fast
@@ -230,7 +230,6 @@ void loop()
       }
       
   }
-        
-    }
+}
 
 
